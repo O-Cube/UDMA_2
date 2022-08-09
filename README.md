@@ -1,2 +1,2 @@
 # UDMA_2
-Memory gather
+Memory gather with udma
